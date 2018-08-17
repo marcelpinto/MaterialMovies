@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Material MoviesDB</string>
+    <string name="details_release_date">Release date: %1$s</string>
+    <string name="details_rating">Rating: %1$.1f/10</string>
+    <string name="details_plot_title">Plot Explanation</string>
+    <string name="details_cast_title">Cast</string>
+    <string name="filter_upcoming">Upcoming Movies</string>
+    <string name="filter_year">From %1$d</string>
+    <string name="filter_oldies">Oldies</string>
+    <string name="list_error">Error loading movies</string>
+</resources>
